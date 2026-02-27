@@ -709,3 +709,16 @@ section { padding:8rem 0; }
   border: 1px solid rgba(231, 76, 60, 0.4);
   color: #e74c3c;
 }
+
+/* ===== SITE THEME: Industrial Amber ===== */
+:root {
+    --primary: #f59e0b;
+    --primary-dark: #d97706;
+    --accent: #ea580c;
+    --bg-dark: #160c05;
+    --bg-darker: #0a0502;
+    --bg-card: #201406;
+    --font-heading: 'Russo One', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+}
+.site-header { background: rgba(22,12,5,0.85); }
